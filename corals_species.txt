@@ -1,0 +1,829 @@
+Acanthastrea_bowerbanki
+Acanthastrea_brevis
+Acanthastrea_echinata
+Acanthastrea_faviaformis
+Acanthastrea_hemprichii
+Acanthastrea_hillae
+Acanthastrea_ishigakiensis
+Acanthastrea_lordhowensis
+Acanthastrea_regularis
+Acanthastrea_rotundoflora
+Acanthastrea_subechinata
+Acanthophyllia_deshayesiana
+Acropora_abrolhosensis
+Acropora_abrotanoides
+Acropora_aculeus
+Acropora_acuminata
+Acropora_akajimensis
+Acropora_anthocercis
+Acropora_appressa
+Acropora_arabensis
+Acropora_aspera
+Acropora_austera
+Acropora_awi
+Acropora_azurea
+Acropora_batunai
+Acropora_bifurcata
+Acropora_branchi
+Acropora_bushyensis
+Acropora_cardenae
+Acropora_carduus
+Acropora_caroliniana
+Acropora_cerealis
+Acropora_cervicornis
+Acropora_chesterfieldensis
+Acropora_clathrata
+Acropora_convexa
+Acropora_cophodactyla
+Acropora_copiosa
+Acropora_cytherea
+Acropora_dendrum
+Acropora_derawanensis
+Acropora_desalwii
+Acropora_digitifera
+Acropora_divaricata
+Acropora_donei
+Acropora_downingi
+Acropora_echinata
+Acropora_efflorescens
+Acropora_elegans
+Acropora_elegantula
+Acropora_elseyi
+Acropora_eurystoma
+Acropora_fastigata
+Acropora_fenneri
+Acropora_filiformis
+Acropora_florida
+Acropora_forskali
+Acropora_fragilis
+Acropora_gemmifera
+Acropora_glauca
+Acropora_globiceps
+Acropora_grandis
+Acropora_granulosa
+Acropora_haimei
+Acropora_halmaherae
+Acropora_hemprichii
+Acropora_hoeksemai
+Acropora_horrida
+Acropora_humilis
+Acropora_hyacinthus
+Acropora_indonesia
+Acropora_insignis
+Acropora_intermedia
+Acropora_jacquelineae
+Acropora_japonica
+Acropora_kimbeensis
+Acropora_kirstyae
+Acropora_kosurini
+Acropora_lamarcki
+Acropora_latistella
+Acropora_lianae
+Acropora_listeri
+Acropora_loisetteae
+Acropora_lokani
+Acropora_longicyathus
+Acropora_loripes
+Acropora_lovelli
+Acropora_lutkeni
+Acropora_maryae
+Acropora_massawensis
+Acropora_meridiana
+Acropora_microclados
+Acropora_microphthalma
+Acropora_millepora
+Acropora_minuta
+Acropora_mirabilis
+Acropora_monticulosa
+Acropora_multiacuta
+Acropora_muricata
+Acropora_nana
+Acropora_nasuta
+Acropora_natalensis
+Acropora_navini
+Acropora_ocellata
+Acropora_orbicularis
+Acropora_palmata
+Acropora_palmerae
+Acropora_paniculata
+Acropora_papillare
+Acropora_parahemprichii
+Acropora_parapharaonis
+Acropora_parilis
+Acropora_pectinatus
+Acropora_pharaonis
+Acropora_pichoni
+Acropora_pinguis
+Acropora_plana
+Acropora_plantaginea
+Acropora_plumosa
+Acropora_polystoma
+Acropora_prolifera
+Acropora_proximalis
+Acropora_pruinosa
+Acropora_pulchra
+Acropora_retusa
+Acropora_robusta
+Acropora_rongelapensis
+Acropora_rosaria
+Acropora_roseni
+Acropora_rudis
+Acropora_rufus
+Acropora_russelli
+Acropora_samoensis
+Acropora_sarmentosa
+Acropora_schmitti
+Acropora_secale
+Acropora_sekiseiensis
+Acropora_selago
+Acropora_seriata
+Acropora_simplex
+Acropora_sirikitiae
+Acropora_solitaryensis
+Acropora_spathulata
+Acropora_speciosa
+Acropora_spicifera
+Acropora_squamata
+Acropora_squarrosa
+Acropora_stoddarti
+Acropora_striata
+Acropora_subglabra
+Acropora_subulata
+Acropora_suharsonoi
+Acropora_sukarnoi
+Acropora_tanegashimensis
+Acropora_tenella
+Acropora_tenuis
+Acropora_teres
+Acropora_tizardi
+Acropora_torihalimeda
+Acropora_torresiana
+Acropora_tortuosa
+Acropora_tumida
+Acropora_turaki
+Acropora_tutuilensis
+Acropora_valenciennesi
+Acropora_valida
+Acropora_variabilis
+Acropora_variolosa
+Acropora_vaughani
+Acropora_vermiculata
+Acropora_verweyi
+Acropora_walindii
+Acropora_wallaceae
+Acropora_willisae
+Acropora_yongei
+Agaricia_agaricites
+Agaricia_fragilis
+Agaricia_grahamae
+Agaricia_humilis
+Agaricia_lamarcki
+Agaricia_tenuifolia
+Agaricia_undata
+Alveopora_allingi
+Alveopora_catalai
+Alveopora_daedalea
+Alveopora_excelsa
+Alveopora_fenestrata
+Alveopora_gigas
+Alveopora_japonica
+Alveopora_marionensis
+Alveopora_minuta
+Alveopora_ocellata
+Alveopora_spongiosa
+Alveopora_tizardi
+Alveopora_verrilliana
+Alveopora_viridis
+Anacropora_forbesi
+Anacropora_matthaii
+Anacropora_pillai
+Anacropora_puertogalerae
+Anacropora_reticulata
+Anacropora_spinosa
+Anacropora_spumosa
+Anomastraea_irregularis
+Astrangia_poculata
+Astrea_annuligera
+Astrea_curta
+Astrea_rotulosa
+Astreopora_acroporina
+Astreopora_cenderawasih
+Astreopora_cucullata
+Astreopora_expansa
+Astreopora_gracilis
+Astreopora_incrustans
+Astreopora_listeri
+Astreopora_longiseptata
+Astreopora_macrostoma
+Astreopora_montiporina
+Astreopora_moretonensis
+Astreopora_myriophthalma
+Astreopora_ocellata
+Astreopora_randalli
+Astreopora_scabra
+Astreopora_suggesta
+Australogyra_zelli
+Australomussa_rowleyensis
+Balanophyllia europaea
+Bernardpora stutchburyi
+Blastomussa loyae
+Blastomussa merleti
+Blastomussa vivida
+Blastomussa wellsi
+Boninastrea boninensis
+Calathiscus tantillus
+Cantharellus doederleini
+Cantharellus jebbi
+Cantharellus noumeae
+Catalaphyllia jardinei
+Caulastrea connata
+Caulastrea curvata
+Caulastrea echinulata
+Caulastrea furcata
+Caulastrea tumida
+Cladocora arbuscula
+Cladocora caespitosa
+Coeloseris mayeri
+Colpophyllia natans
+Coscinaraea columna
+Coscinaraea crassa
+Coscinaraea exesa
+Coscinaraea hahazimaensis
+Coscinaraea marshae
+Coscinaraea mcneilli
+Coscinaraea monile
+Coscinaraea wellsi
+Craterastrea levis
+Ctenactis albitentaculata
+Ctenactis crassa
+Ctenactis echinata
+Ctenella chagius
+Cycloseris boschmai
+Cycloseris colini
+Cycloseris costulata
+Cycloseris curvata
+Cycloseris cyclolites
+Cycloseris erosa
+Cycloseris hexagonalis
+Cycloseris patelliformis
+Cycloseris sinensis
+Cycloseris somervillei
+Cycloseris tenuis
+Cycloseris vaughani
+Cynarina lacrymalis
+Cyphastrea agassizi
+Cyphastrea chalcidicum
+Cyphastrea decadia
+Cyphastrea hexasepta
+Cyphastrea japonica
+Cyphastrea kausti
+Cyphastrea microphthalma
+Cyphastrea ocellina
+Cyphastrea serailia
+Dendrogyra cylindrus
+Diaseris distorta
+Diaseris fragilis
+Dichocoenia stokesi
+Diploastrea heliopora
+Diploria clivosa
+Diploria labyrinthiformis
+Diploria strigosa
+Duncanopsammia axifuga
+Echinomorpha nishihirai
+Echinophyllia aspera
+Echinophyllia costata
+Echinophyllia echinata
+Echinophyllia echinoporoides
+Echinophyllia orpheensis
+Echinophyllia patula
+Echinophyllia pectinata
+Echinophyllia tarae
+Echinopora ashmorensis
+Echinopora forskaliana
+Echinopora fruticulosa
+Echinopora gemmacea
+Echinopora hirsutissima
+Echinopora horrida
+Echinopora irregularis
+Echinopora lamellosa
+Echinopora mammiformis
+Echinopora pacificus
+Echinopora robusta
+Echinopora taylorae
+Echinopora tiranensis
+Erythrastrea flabellata
+Euphyllia ancora
+Euphyllia baliensis
+Euphyllia cristata
+Euphyllia divisa
+Euphyllia glabrescens
+Euphyllia paraancora
+Euphyllia paradivisa
+Euphyllia paraglabrescens
+Euphyllia yaeyamaensis
+Eusmilia fastigiata
+Favia albidus
+Favia amicorum
+Favia danai
+Favia favus
+Favia fragum
+Favia gravida
+Favia helianthoides
+Favia lacuna
+Favia laddi
+Favia laxa
+Favia leptophylla
+Favia lizardensis
+Favia maritima
+Favia marshae
+Favia matthaii
+Favia maxima
+Favia pallida
+Favia rosaria
+Favia rotumana
+Favia rotundata
+Favia speciosa
+Favia stelligera
+Favia truncatus
+Favia veroni
+Favia vietnamensis
+Favia wisseli
+Favites abdita
+Favites acuticollis
+Favites bestae
+Favites chinensis
+Favites complanata
+Favites flexuosa
+Favites halicora
+Favites micropentagona
+Favites paraflexuosa
+Favites pentagona
+Favites russelli
+Favites spinosa
+Favites stylifera
+Favites vasta
+Fungia concinna
+Fungia corona
+Fungia danai
+Fungia fralinae
+Fungia fungites
+Fungia granulosa
+Fungia gravis
+Fungia horrida
+Fungia klunzingeri
+Fungia moluccensis
+Fungia paumotensis
+Fungia puishani
+Fungia repanda
+Fungia scabra
+Fungia scruposa
+Fungia scutaria
+Fungia seychellensis
+Fungia spinifer
+Fungia taiwanensis
+Galaxea acrhelia
+Galaxea astreata
+Galaxea cryptoramosa
+Galaxea fascicularis
+Galaxea horrescens
+Galaxea lawisiana
+Galaxea longisepta
+Galaxea paucisepta
+Gardineroseris planulata
+Goniastrea aspera
+Goniastrea australensis
+Goniastrea columella
+Goniastrea deformis
+Goniastrea edwardsi
+Goniastrea favulus
+Goniastrea minuta
+Goniastrea palauensis
+Goniastrea pectinata
+Goniastrea peresi
+Goniastrea ramosa
+Goniastrea retiformis
+Goniastrea thecata
+Goniopora albiconus
+Goniopora burgosi
+Goniopora cellulosa
+Goniopora ciliatus
+Goniopora columna
+Goniopora djiboutiensis
+Goniopora eclipsensis
+Goniopora fruticosa
+Goniopora lobata
+Goniopora minor
+Goniopora norfolkensis
+Goniopora palmensis
+Goniopora pandoraensis
+Goniopora pearsoni
+Goniopora pendulus
+Goniopora planulata
+Goniopora polyformis
+Goniopora savignyi
+Goniopora somaliensis
+Goniopora stokesi
+Goniopora sultani
+Goniopora tenuidens
+Gyrosmilia interrupta
+Halomitra clavator
+Halomitra meierae
+Halomitra pileus
+Heliofungia actiniformis
+Herpolitha limax
+Herpolitha weberi
+Heterocyathus aequicostatus
+Heteropsammia cochlea
+Heteropsammia moretonensis
+Horastrea indica
+Hydnophora bonsai
+Hydnophora exesa
+Hydnophora microconos
+Hydnophora pilosa
+Hydnophora rigida
+Indophyllia macassarensis
+Isophyllia rigida
+Isophyllia sinuosa
+Isopora brueggemanni
+Isopora crateriformis
+Isopora cuneata
+Isopora cylindrica
+Isopora elizabethensis
+Isopora palifera
+Isopora togianensis
+Leptastrea aequalis
+Leptastrea bewickensis
+Leptastrea bottae
+Leptastrea inaequalis
+Leptastrea pruinosa
+Leptastrea purpurea
+Leptastrea transversa
+Leptoria irregularis
+Leptoria phrygia
+Leptoseris amitoriensis
+Leptoseris cailleti
+Leptoseris cucullata
+Leptoseris explanata
+Leptoseris foliosa
+Leptoseris gardineri
+Leptoseris hawaiiensis
+Leptoseris incrustans
+Leptoseris kalayaanensis
+Leptoseris mycetoseroides
+Leptoseris papyracea
+Leptoseris scabra
+Leptoseris solida
+Leptoseris striata
+Leptoseris tubulifera
+Leptoseris yabei
+Lithophyllon lobata
+Lithophyllon mokai
+Lithophyllon undulatum
+Lobophyllia corymbosa
+Lobophyllia dentatus
+Lobophyllia diminuta
+Lobophyllia flabelliformis
+Lobophyllia hataii
+Lobophyllia hemprichii
+Lobophyllia pachysepta
+Lobophyllia robusta
+Lobophyllia serratus
+Madracis asanoi
+Madracis asperula
+Madracis carmabi
+Madracis decactis
+Madracis formosa
+Madracis kirbyi
+Madracis mirabilis
+Madracis pharensis
+Madracis senaria
+Manicina areolata
+Meandrina brasiliensis
+Meandrina danae
+Meandrina jacksoni
+Meandrina meandrites
+Merulina ampliata
+Merulina scabricula
+Merulina scheeri
+Micromussa amakusensis
+Micromussa diminuta
+Micromussa minuta
+Montastraea cavernosa
+Montigyra kenti
+Montipora aequituberculata
+Montipora altasepta
+Montipora angulata
+Montipora aspergillus
+Montipora australiensis
+Montipora bilaminata
+Montipora cactus
+Montipora caliculata
+Montipora capitata
+Montipora capricornis
+Montipora carinata
+Montipora cebuensis
+Montipora circumvallata
+Montipora confusa
+Montipora corbettensis
+Montipora crassituberculata
+Montipora cryptus
+Montipora danae
+Montipora delicatula
+Montipora digitata
+Montipora dilatata
+Montipora echinata
+Montipora efflorescens
+Montipora effusa
+Montipora flabellata
+Montipora florida
+Montipora floweri
+Montipora foliosa
+Montipora foveolata
+Montipora friabilis
+Montipora gaimardi
+Montipora grisea
+Montipora hemispherica
+Montipora hispida
+Montipora hodgsoni
+Montipora hoffmeisteri
+Montipora incrassata
+Montipora informis
+Montipora kellyi
+Montipora lobulata
+Montipora mactanensis
+Montipora malampaya
+Montipora meandrina
+Montipora millepora
+Montipora mollis
+Montipora monasteriata
+Montipora myriophthalma
+Montipora niugini
+Montipora nodosa
+Montipora orientalis
+Montipora pachytuberculata
+Montipora palawanensis
+Montipora patula
+Montipora peltiformis
+Montipora porites
+Montipora samarensis
+Montipora saudii
+Montipora setosa
+Montipora spongiosa
+Montipora spongodes
+Montipora spumosa
+Montipora stellata
+Montipora stilosa
+Montipora taiwanensis
+Montipora tuberculosa
+Montipora turgescens
+Montipora turtlensis
+Montipora undata
+Montipora venosa
+Montipora verrilli
+Montipora verrucosa
+Montipora verruculosus
+Montipora vietnamensis
+Moseleya latistellata
+Mussa angulosa
+Mussismilia braziliensis
+Mussismilia harttii
+Mussismilia hispida
+Mycedium elephantotus
+Mycedium mancaoi
+Mycedium robokaki
+Mycedium steeni
+Mycedium umbra
+Mycetophyllia aliciae
+Mycetophyllia danaana
+Mycetophyllia ferox
+Mycetophyllia lamarckiana
+Mycetophyllia reesi
+Nemenzophyllia turbida
+Oculina diffusa
+Oculina patagonica
+Oculina robusta
+Oculina valenciennesi
+Oculina varicosa
+Orbicella annularis
+Orbicella faveolata
+Orbicella franksi
+Oulastrea crispata
+Oulophyllia bennettae
+Oulophyllia crispa
+Oulophyllia levis
+Oxypora convoluta
+Oxypora crassispinosa
+Oxypora egyptensis
+Oxypora glabra
+Oxypora lacera
+Pachyseris foliosa
+Pachyseris gemmae
+Pachyseris inattesa
+Pachyseris involuta
+Pachyseris rugosa
+Pachyseris speciosa
+Palauastrea ramosa
+Paraclavarina triangularis
+Paramontastraea salebrosa
+Paramontastraea serageldini
+Parascolymia australis
+Parascolymia vitiensis
+Parasimplastrea omanensis
+Pavona bipartita
+Pavona cactus
+Pavona chiriquiensis
+Pavona clavus
+Pavona danai
+Pavona decussata
+Pavona diffluens
+Pavona duerdeni
+Pavona explanulata
+Pavona frondifera
+Pavona gigantea
+Pavona maldivensis
+Pavona minuta
+Pavona varians
+Pavona venosa
+Pectinia africanus
+Pectinia ayleni
+Pectinia elongata
+Pectinia lactuca
+Pectinia maxima
+Pectinia paeonia
+Pectinia pygmaeus
+Pectinia teres
+Phymastrea colemani
+Phymastrea magnistellata
+Phymastrea multipunctata
+Phymastrea valenciennesi
+Physogyra lichtensteini
+Platygyra acuta
+Platygyra carnosus
+Platygyra contorta
+Platygyra crosslandi
+Platygyra daedalea
+Platygyra lamellina
+Platygyra pini
+Platygyra ryukyuensis
+Platygyra sinensis
+Platygyra verweyi
+Platygyra yaeyamaensis
+Plerogyra cauliformis
+Plerogyra simplex
+Plerogyra sinuosa
+Plesiastrea versipora
+Pocillopora acuta
+Pocillopora aliciae
+Pocillopora ankeli
+Pocillopora bairdi
+Pocillopora brevicornis
+Pocillopora capitata
+Pocillopora damicornis
+Pocillopora danae
+Pocillopora effusus
+Pocillopora elegans
+Pocillopora eydouxi
+Pocillopora fungiformis
+Pocillopora indiania
+Pocillopora kelleheri
+Pocillopora ligulata
+Pocillopora meandrina
+Pocillopora molokensis
+Pocillopora verrucosa
+Pocillopora woodjonesi
+Pocillopora zelli
+Podabacia crustacea
+Podabacia kunzmanni
+Podabacia lankaensis
+Podabacia motuporensis
+Podabacia sinai
+Polycyathus chaishanensis
+Polyphyllia novaehiberniae
+Polyphyllia talpina
+Porites annae
+Porites aranetai
+Porites arnaudi
+Porites astreoides
+Porites attenuata
+Porites australiensis
+Porites branneri
+Porites brighami
+Porites cocosensis
+Porites colonensis
+Porites columnaris
+Porites compressa
+Porites cumulatus
+Porites cylindrica
+Porites decasepta
+Porites deformis
+Porites densa
+Porites desilveri
+Porites divaricata
+Porites duerdeni
+Porites echinulata
+Porites eridani
+Porites evermanni
+Porites flavus
+Porites fontanesii
+Porites furcata
+Porites harrisoni
+Porites hawaiiensis
+Porites heronensis
+Porites horizontalata
+Porites latistellata
+Porites lichen
+Porites lobata
+Porites lutea
+Porites mayeri
+Porites monticulosa
+Porites murrayensis
+Porites myrmidonensis
+Porites napopora
+Porites negrosensis
+Porites nigrescens
+Porites nodifera
+Porites okinawensis
+Porites ornata
+Porites panamensis
+Porites porites
+Porites profundus
+Porites pukoensis
+Porites randalli
+Porites rugosa
+Porites rus
+Porites sillimaniana
+Porites solida
+Porites somaliensis
+Porites stephensoni
+Porites studeri
+Porites superfusa
+Porites sverdrupi
+Porites tuberculosa
+Porites vaughani
+Poritipora paliformis
+Psammocora albopicta
+Psammocora contigua
+Psammocora digitata
+Psammocora explanulata
+Psammocora haimiana
+Psammocora nierstraszi
+Psammocora obtusangula
+Psammocora profundacella
+Psammocora stellata
+Pseudosiderastrea formosa
+Pseudosiderastrea tayamai
+Sandalolitha africana
+Sandalolitha boucheti
+Sandalolitha dentata
+Sandalolitha robusta
+Scapophyllia cylindrica
+Schizoculina africana
+Schizoculina fissipara
+Sclerophyllia margariticola
+Sclerophyllia maxima
+Scolymia cubensis
+Seriatopora aculeata
+Seriatopora caliendrum
+Seriatopora dendritica
+Seriatopora guttatus
+Seriatopora hystrix
+Seriatopora stellata
+Siderastrea radians
+Siderastrea savignyana
+Siderastrea siderea
+Siderastrea stellata
+Simplastrea vesicularis
+Solenastrea bournoni
+Solenastrea hyades
+Stephanocoenia michelini
+Stylaraea punctata
+Stylocoeniella armata
+Stylocoeniella cocosensis
+Stylocoeniella guentheri
+Stylophora danae
+Stylophora kuehlmanni
+Stylophora madagascarensis
+Stylophora mamillata
+Stylophora pistillata
+Stylophora subseriata
+Stylophora wellsi
+Symphyllia agaricia
+Symphyllia erythraea
+Symphyllia hassi
+Symphyllia radians
+Symphyllia recta
+Symphyllia valenciennesi
+Symphyllia wilsoni
+Trachyphyllia geoffroyi
+Turbinaria bifrons
+Turbinaria conspicua
+Turbinaria frondens
+Turbinaria heronensis
+Turbinaria irregularis
+Turbinaria mesenterina
+Turbinaria patula
+Turbinaria peltata
+Turbinaria radicalis
+Turbinaria reniformis
+Turbinaria stellulata
+Zoopilus echinatus
