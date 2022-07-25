@@ -1,6 +1,8 @@
 # Coral_RNN
 simple RNN which generates new coral species (names)
 
+Most of code from Deeplearningai's Dinosaur name generating project.
+
 
 ## Favorites
 - Porites_chonexlis
