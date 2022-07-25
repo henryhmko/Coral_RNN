@@ -1,7 +1,7 @@
 # Coral_RNN
 simple RNN which generates new coral species (names)
 
-Most of code from Deeplearningai's Dinosaur name generating project.
+Spinoff of Deeplearningai's RNN course material
 
 
 ## Favorites
