@@ -1,7 +1,6 @@
 # Coral_RNN
 simple RNN which generates new coral species (names)
 
-Spinoff of Deeplearningai's RNN course material
 
 
 ## Favorites
