@@ -11,5 +11,5 @@ simple RNN which generates new coral species (names)
 And..no idea what it's doing here:
 - Pavona_aculienaiploporyitala
 
-But at the same time "Pavona_chiriquiensis" is an actual stony coral species...
+But at the same time "Pavona_chiriquiensis" is an actual stony coral species, so hmmm? 
 
